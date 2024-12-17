@@ -40,7 +40,6 @@ This project provides a **RESTful API** for a project management tool. It allows
 
 - **Django**: Web framework for the backend.
 - **Django REST Framework**: To create the API endpoints.
-- **JWT Authentication**: Token-based authentication with **djangorestframework-simplejwt**.
 - **drf-yasg**: For generating Swagger UI documentation.
 - **SQLite**: Database for development (can be switched to other databases like PostgreSQL).
 - **Python 3.13** (or higher recommended).
