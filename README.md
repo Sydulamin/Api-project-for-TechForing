@@ -118,19 +118,6 @@ Once the server is running, you can access the API through the following endpoin
     }
     ```
 
-  - **Response**:
-    ```json
-    {
-      "access": "jwt_access_token",
-      "refresh": "jwt_refresh_token"
-    }
-    ```
-
-- **Access Protected Endpoints**: Once authenticated, you need to include the JWT access token in the `Authorization` header for all protected routes. Example:
-  ```
-  Authorization: Bearer jwt_access_token
-  ```
-
 ### 3. API Endpoints
 
 Here are the available API endpoints:
