@@ -1,5 +1,5 @@
 
-# Project Management API
+# Project Management API- Md Sydul Amin
 
 This project provides a **RESTful API** for a project management tool. It allows users to manage projects, tasks, and comments, with JWT-based authentication. The backend is built using **Django** and **Django REST Framework**, with **JWT** authentication and **drf-yasg** for Swagger documentation.
 
